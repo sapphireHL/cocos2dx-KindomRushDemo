@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>includes</key>
+<dict>
+</dict>
+<key>animations</key>
+<dict>
+<key>archer_hero_idleBow</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>1</integer>
+	<key>toIndex</key>
+	<integer>18</integer>
+</dict>
+<key>archer_hero_walk</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>19</integer>
+	<key>toIndex</key>
+	<integer>23</integer>
+</dict>
+<key>archer_hero_bowToSword</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>24</integer>
+	<key>toIndex</key>
+	<integer>29</integer>
+</dict>
+<key>archer_hero_idleSword</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>30</integer>
+	<key>toIndex</key>
+	<integer>47</integer>
+</dict>
+<key>archer_hero_swordToBow</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>48</integer>
+	<key>toIndex</key>
+	<integer>53</integer>
+</dict>
+<key>archer_hero_shootStart</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>54</integer>
+	<key>toIndex</key>
+	<integer>63</integer>
+</dict>
+<key>archer_hero_shootLoop</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>64</integer>
+	<key>toIndex</key>
+	<integer>69</integer>
+</dict>
+<key>archer_hero_shootFinal</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>70</integer>
+	<key>toIndex</key>
+	<integer>73</integer>
+</dict>
+<key>archer_hero_shootEnd</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>74</integer>
+	<key>toIndex</key>
+	<integer>79</integer>
+</dict>
+<key>archer_hero_attack</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>80</integer>
+	<key>toIndex</key>
+	<integer>96</integer>
+</dict>
+<key>archer_hero_doubleSword</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>97</integer>
+	<key>toIndex</key>
+	<integer>122</integer>
+</dict>
+<key>archer_hero_dash</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>123</integer>
+	<key>toIndex</key>
+	<integer>138</integer>
+</dict>
+<key>archer_hero_death</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>139</integer>
+	<key>toIndex</key>
+	<integer>150</integer>
+</dict>
+<key>archer_hero_levelUp</key>
+<dict>
+	<key>prefix</key>
+	<string>archer_hero</string>
+	<key>fromIndex</key>
+	<integer>151</integer>
+	<key>toIndex</key>
+	<integer>167</integer>
+</dict>
+</dict>
+</dict>
+</plist>

@@ -1,0 +1,2715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>archer_hero_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0002.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{91, 23}, {42, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{42, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{402, 294}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0004.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 23}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 300}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 23}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 322}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0008.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{85, 23}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{164, 276}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0010.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{84, 23}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{220, 234}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0012.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 23}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{108, 322}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0014.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 23}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -3}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 244}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0016.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{91, 23}, {42, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{42, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 452}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0018.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{91, 23}, {42, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{42, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{92, 472}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 24}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -4}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{188, 372}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{92, 23}, {42, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -3}</string>
+			<key>spriteSize</key>
+			<string>{42, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{446, 292}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 21}, {44, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{360, 250}, {44, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 23}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{250, 338}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 27}, {44, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -5}</string>
+			<key>spriteSize</key>
+			<string>{44, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{46, 450}, {44, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0025.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 20}, {36, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{36, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{544, 260}, {36, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0027.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 17}, {38, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{38, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{180, 458}, {38, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0029.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 25}, {48, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -4}</string>
+			<key>spriteSize</key>
+			<string>{48, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{630, 164}, {48, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0031.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 23}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{406, 250}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0033.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 23}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -3}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{366, 178}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0035.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 23}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{534, 160}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0037.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{84, 23}, {50, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{50, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{114, 230}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0039.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{83, 23}, {52, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{52, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 234}, {52, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0041.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 23}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{416, 178}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0043.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 23}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 360}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0045.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 23}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{498, 260}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0096.png</string>
+			
+				<string>archer_hero_0047.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 23}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{628, 204}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0048.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0049.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 13}, {42, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{42, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 452}, {42, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0051.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 22}, {42, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{42, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{188, 414}, {42, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0053.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 25}, {44, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{44, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{142, 412}, {44, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0055.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 19}, {40, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{340, 352}, {40, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0056.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0057.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 13}, {42, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{42, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{700, 58}, {42, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0059.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{85, 14}, {42, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 1}</string>
+			<key>spriteSize</key>
+			<string>{42, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{358, 300}, {42, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0061.png</string>
+			
+				<string>archer_hero_0073.png</string>
+			
+				<string>archer_hero_0066.png</string>
+			
+				<string>archer_hero_0067.png</string>
+			
+				<string>archer_hero_0072.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{83, 15}, {44, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 1}</string>
+			<key>spriteSize</key>
+			<string>{44, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 402}, {44, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0062.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0069.png</string>
+			
+				<string>archer_hero_0063.png</string>
+			
+				<string>archer_hero_0068.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 15}, {46, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 1}</string>
+			<key>spriteSize</key>
+			<string>{46, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 250}, {46, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0064.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0071.png</string>
+			
+				<string>archer_hero_0070.png</string>
+			
+				<string>archer_hero_0065.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{85, 17}, {40, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{402, 336}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0074.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0075.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 17}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{264, 290}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0076.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0077.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{84, 17}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{142, 364}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0079.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 24}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{452, 246}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0080.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0081.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{83, 23}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -3}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{232, 426}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0082.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0083.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 23}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -3}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{278, 390}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0084.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0085.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 23}, {56, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -3}</string>
+			<key>spriteSize</key>
+			<string>{56, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 230}, {56, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0087.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{85, 23}, {54, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -6}</string>
+			<key>spriteSize</key>
+			<string>{54, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 272}, {54, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0088.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0089.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{84, 19}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 202}, {52, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0090.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0091.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 19}, {56, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -2}</string>
+			<key>spriteSize</key>
+			<string>{56, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 186}, {56, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0092.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0093.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 25}, {54, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -4}</string>
+			<key>spriteSize</key>
+			<string>{54, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{424, 130}, {54, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0094.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0095.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 23}, {54, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -3}</string>
+			<key>spriteSize</key>
+			<string>{54, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{224, 186}, {54, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0097.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0098.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 26}, {52, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -5}</string>
+			<key>spriteSize</key>
+			<string>{52, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{54, 320}, {52, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0099.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0100.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 29}, {54, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -6}</string>
+			<key>spriteSize</key>
+			<string>{54, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{480, 124}, {54, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0101.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0102.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{83, 18}, {62, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -1}</string>
+			<key>spriteSize</key>
+			<string>{62, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{360, 130}, {62, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0104.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 16}, {40, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{490, 302}, {40, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0105.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0106.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 15}, {48, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 1}</string>
+			<key>spriteSize</key>
+			<string>{48, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{114, 272}, {48, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0107.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0108.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{75, 16}, {62, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{62, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{500, 62}, {62, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0109.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0110.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{83, 18}, {42, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{296, 342}, {42, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0111.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0112.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 20}, {86, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{21, -7}</string>
+			<key>spriteSize</key>
+			<string>{86, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{564, 50}, {86, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0113.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0114.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{73, 27}, {102, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -11}</string>
+			<key>spriteSize</key>
+			<string>{102, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{600, 0}, {102, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0115.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0116.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{76, 26}, {66, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -10}</string>
+			<key>spriteSize</key>
+			<string>{66, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{496, 12}, {66, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0117.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0118.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 26}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -6}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 336}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0119.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0120.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 25}, {52, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -4}</string>
+			<key>spriteSize</key>
+			<string>{52, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 320}, {52, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0121.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0122.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 23}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -3}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{48, 360}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0123.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 28}, {58, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -6}</string>
+			<key>spriteSize</key>
+			<string>{58, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{254, 146}, {58, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0124.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{98, 26}, {62, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{21, -5}</string>
+			<key>spriteSize</key>
+			<string>{62, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{190, 146}, {62, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0125.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{115, 24}, {68, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{41, -4}</string>
+			<key>spriteSize</key>
+			<string>{68, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{430, 82}, {68, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0126.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{104, 27}, {100, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{46, -5}</string>
+			<key>spriteSize</key>
+			<string>{100, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{290, 50}, {100, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0127.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{108, 23}, {94, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{47, -3}</string>
+			<key>spriteSize</key>
+			<string>{94, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 108}, {94, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0128.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{108, 23}, {94, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{47, -3}</string>
+			<key>spriteSize</key>
+			<string>{94, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 62}, {94, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0129.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{109, 23}, {100, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{51, -3}</string>
+			<key>spriteSize</key>
+			<string>{100, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{394, 12}, {100, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0130.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{110, 28}, {102, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{53, -6}</string>
+			<key>spriteSize</key>
+			<string>{102, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{290, 12}, {102, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0131.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{134, 26}, {64, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{58, -5}</string>
+			<key>spriteSize</key>
+			<string>{64, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{564, 106}, {64, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0132.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{112, 24}, {68, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{38, -4}</string>
+			<key>spriteSize</key>
+			<string>{68, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{360, 88}, {68, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0133.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{91, 27}, {90, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{28, -5}</string>
+			<key>spriteSize</key>
+			<string>{90, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 150}, {90, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0134.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{93, 23}, {78, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{24, -3}</string>
+			<key>spriteSize</key>
+			<string>{78, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 188}, {78, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0135.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{93, 23}, {78, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{24, -3}</string>
+			<key>spriteSize</key>
+			<string>{78, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{280, 104}, {78, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0136.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 23}, {84, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{20, -3}</string>
+			<key>spriteSize</key>
+			<string>{84, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 104}, {84, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0137.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 23}, {84, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{20, -3}</string>
+			<key>spriteSize</key>
+			<string>{84, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{108, 94}, {84, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0138.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 23}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{214, 276}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0139.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0140.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{79, 18}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{46, 402}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0141.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0142.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{71, 15}, {58, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 1}</string>
+			<key>spriteSize</key>
+			<string>{58, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{106, 180}, {58, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0143.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0144.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{62, 23}, {80, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -4}</string>
+			<key>spriteSize</key>
+			<string>{80, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{108, 136}, {80, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0145.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0146.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{57, 48}, {88, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -21}</string>
+			<key>spriteSize</key>
+			<string>{88, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{392, 54}, {88, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0147.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0148.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{57, 46}, {44, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-29, -20}</string>
+			<key>spriteSize</key>
+			<string>{44, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{366, 220}, {44, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0149.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0150.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{57, 50}, {44, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-29, -22}</string>
+			<key>spriteSize</key>
+			<string>{44, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 220}, {44, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0151.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_0152.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 20}, {42, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{42, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 380}, {42, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0153.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 12}, {44, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{44, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{204, 318}, {44, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0154.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 12}, {44, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{44, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{96, 364}, {44, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0155.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{80, 12}, {52, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{52, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{630, 110}, {52, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0156.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{80, 12}, {52, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{52, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{480, 160}, {52, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0157.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 12}, {42, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{42, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{680, 170}, {42, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0158.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 12}, {42, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{42, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{92, 418}, {42, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0159.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 12}, {44, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{44, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{314, 146}, {44, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0160.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 11}, {44, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{44, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{584, 146}, {44, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0161.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 10}, {46, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{46, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{704, 0}, {46, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0162.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 9}, {46, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{46, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{534, 202}, {46, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0163.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 8}, {46, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{46, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{652, 50}, {46, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0164.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 8}, {46, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{46, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{684, 110}, {46, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0165.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 7}, {46, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{46, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 0}, {46, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0166.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 7}, {46, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{46, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{242, 0}, {46, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_0167.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 23}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -3}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{216, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 202}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_decal_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_arrows_decal_0002.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 12}, {12, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{12, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{482, 54}, {12, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_decal_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_arrows_decal_0004.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 13}, {8, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 7}</string>
+			<key>spriteSize</key>
+			<string>{8, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{80, 188}, {8, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_decal_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_arrows_decal_0006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 13}, {10, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSize</key>
+			<string>{10, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{96, 108}, {10, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_decal_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_arrows_decal_0008.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 14}, {12, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSize</key>
+			<string>{12, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{92, 152}, {12, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_decal_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_arrows_decal_0010.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 13}, {10, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSize</key>
+			<string>{10, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{96, 130}, {10, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_decal_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 14}, {12, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSize</key>
+			<string>{12, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{92, 172}, {12, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_proy.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 5}, {308, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -0}</string>
+			<key>spriteSize</key>
+			<string>{308, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{316, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{290, 0}, {308, 10}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_smokeDecal_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_arrows_smokeDecal_0002.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 4}, {26, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 11}</string>
+			<key>spriteSize</key>
+			<string>{26, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 112}, {26, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_smokeDecal_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_arrows_smokeDecal_0004.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 5}, {30, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 11}</string>
+			<key>spriteSize</key>
+			<string>{30, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{412, 220}, {30, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_smokeDecal_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_arrows_smokeDecal_0006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 4}, {30, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 11}</string>
+			<key>spriteSize</key>
+			<string>{30, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 286}, {30, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_smokeDecal_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_arrows_smokeDecal_0008.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 3}, {30, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 12}</string>
+			<key>spriteSize</key>
+			<string>{30, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{280, 184}, {30, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_smokeDecal_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>archer_hero_arrows_smokeDecal_0010.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 2}, {30, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 12}</string>
+			<key>spriteSize</key>
+			<string>{30, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{564, 12}, {30, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_arrows_smokeDecal_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {40, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 60}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 228}, {40, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_proy_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {22, 6}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 6}</string>
+			<key>spriteSourceSize</key>
+			<string>{22, 6}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{290, 88}, {22, 6}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>archer_hero_proy_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {16, 6}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{16, 6}</string>
+			<key>spriteSourceSize</key>
+			<string>{22, 6}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{314, 88}, {16, 6}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hero_portraits_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {84, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{84, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{108, 0}, {84, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>portraits_hero_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 11}, {54, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{54, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{58, 230}, {54, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>portraits_power_hero_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 17}, {106, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{106, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 144}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {106, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>name</key>
+		<string>elves_hero_archer-hd.zwd</string>
+		<key>textureFileName</key>
+		<string>elves_hero_archer-hd.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

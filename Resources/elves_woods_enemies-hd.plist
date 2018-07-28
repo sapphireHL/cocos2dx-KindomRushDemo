@@ -1,0 +1,6095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>ettin_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{54, 16}, {78, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{78, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{685, 509}, {78, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0003.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 13}, {86, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{86, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{164, 878}, {84, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0005.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 17}, {84, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{84, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{409, 769}, {82, 84}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0007.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 19}, {82, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -5}</string>
+			<key>spriteSize</key>
+			<string>{82, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{756, 148}, {78, 82}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0009.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{59, 16}, {72, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{72, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{278, 951}, {80, 72}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0011.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{61, 14}, {70, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSize</key>
+			<string>{70, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{185, 524}, {82, 70}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0013.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{61, 12}, {68, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -1}</string>
+			<key>spriteSize</key>
+			<string>{68, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{687, 150}, {68, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0015.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{62, 12}, {68, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -1}</string>
+			<key>spriteSize</key>
+			<string>{68, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{776, 0}, {68, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0017.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{61, 12}, {68, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -1}</string>
+			<key>spriteSize</key>
+			<string>{68, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 939}, {68, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0019.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{61, 15}, {68, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{68, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{513, 932}, {68, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0021.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{57, 19}, {74, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -5}</string>
+			<key>spriteSize</key>
+			<string>{74, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 520}, {78, 74}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0023.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{53, 15}, {78, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{78, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{492, 849}, {78, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0025.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 12}, {84, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{84, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{602, 150}, {84, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0027.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 11}, {84, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{84, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{269, 684}, {84, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0029.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 11}, {84, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{84, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{330, 595}, {84, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0031.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 12}, {94, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{94, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 808}, {84, 94}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0033.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 19}, {92, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{92, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{85, 903}, {78, 92}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0035.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 19}, {90, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{90, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{361, 150}, {78, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0037.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 16}, {88, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{88, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{535, 0}, {80, 88}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0039.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 11}, {82, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{82, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{474, 298}, {82, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0041.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 10}, {82, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{82, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{393, 426}, {82, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0043.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 9}, {82, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{82, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{310, 426}, {82, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0045.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 8}, {82, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{82, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{391, 298}, {82, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0047.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 10}, {84, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{84, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{245, 595}, {84, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0048.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0049.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 16}, {84, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{84, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{359, 943}, {84, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0051.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 16}, {88, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{88, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{440, 150}, {80, 88}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0053.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 14}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{308, 298}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0055.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 13}, {92, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{92, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{225, 427}, {84, 92}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0056.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0057.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 11}, {94, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{94, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{274, 150}, {86, 94}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 11}, {94, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{94, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{280, 0}, {86, 94}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0060.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 18}, {94, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{94, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{85, 808}, {78, 94}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0062.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 18}, {96, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -4}</string>
+			<key>spriteSize</key>
+			<string>{96, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{195, 150}, {78, 96}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0063.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0064.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 14}, {82, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{82, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{492, 766}, {82, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0066.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 9}, {80, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{80, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{521, 150}, {80, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0068.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 8}, {96, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 1}</string>
+			<key>spriteSize</key>
+			<string>{96, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 301}, {88, 96}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0069.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0070.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 7}, {96, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 1}</string>
+			<key>spriteSize</key>
+			<string>{96, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{134, 427}, {90, 96}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0071.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0072.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 6}, {78, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 2}</string>
+			<key>spriteSize</key>
+			<string>{78, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{164, 787}, {78, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0073.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0074.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 8}, {98, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 1}</string>
+			<key>spriteSize</key>
+			<string>{98, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{69, 595}, {88, 98}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0075.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0076.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 15}, {96, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -3}</string>
+			<key>spriteSize</key>
+			<string>{96, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{225, 298}, {82, 96}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0077.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0078.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{48, 15}, {82, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -3}</string>
+			<key>spriteSize</key>
+			<string>{82, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{575, 594}, {82, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0079.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0080.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 12}, {94, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -1}</string>
+			<key>spriteSize</key>
+			<string>{94, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 903}, {84, 94}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0081.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0082.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 12}, {88, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -1}</string>
+			<key>spriteSize</key>
+			<string>{88, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{184, 688}, {84, 88}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0083.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0084.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 10}, {94, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{94, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{367, 0}, {86, 94}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0085.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0086.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 12}, {80, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -1}</string>
+			<key>spriteSize</key>
+			<string>{80, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 513}, {84, 80}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0087.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0088.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 11}, {80, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -1}</string>
+			<key>spriteSize</key>
+			<string>{80, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{415, 594}, {80, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0089.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0092.png</string>
+			
+				<string>ettin_0091.png</string>
+			
+				<string>ettin_0090.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 9}, {80, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -0}</string>
+			<key>spriteSize</key>
+			<string>{80, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{454, 0}, {80, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0093.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0094.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 5}, {86, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 2}</string>
+			<key>spriteSize</key>
+			<string>{86, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{158, 595}, {86, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0095.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0096.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{57, 13}, {124, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{28, -6}</string>
+			<key>spriteSize</key>
+			<string>{124, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{43, 302}, {92, 124}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0097.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0098.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{59, 27}, {118, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{27, -13}</string>
+			<key>spriteSize</key>
+			<string>{118, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{47, 0}, {78, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0099.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0100.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{60, 29}, {118, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{28, -13}</string>
+			<key>spriteSize</key>
+			<string>{118, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{120, 150}, {74, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0101.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0102.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{59, 24}, {118, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{27, -10}</string>
+			<key>spriteSize</key>
+			<string>{118, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{126, 0}, {78, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0104.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{54, 15}, {80, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -3}</string>
+			<key>spriteSize</key>
+			<string>{80, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{634, 426}, {80, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0105.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0108.png</string>
+			
+				<string>ettin_0107.png</string>
+			
+				<string>ettin_0106.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{54, 16}, {78, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{78, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{845, 0}, {78, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0109.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0110.png</string>
+			
+				<string>ettin_0112.png</string>
+			
+				<string>ettin_0111.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{54, 16}, {78, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{78, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{658, 594}, {78, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0113.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0114.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{54, 16}, {78, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{78, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{835, 148}, {78, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0115.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0116.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{53, 16}, {78, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{78, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{715, 426}, {78, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0117.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0118.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 15}, {82, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -3}</string>
+			<key>spriteSize</key>
+			<string>{82, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{518, 679}, {82, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0119.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0120.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 13}, {86, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -2}</string>
+			<key>spriteSize</key>
+			<string>{86, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{243, 777}, {84, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0121.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0122.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 18}, {86, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -4}</string>
+			<key>spriteSize</key>
+			<string>{86, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{347, 515}, {86, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0123.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0124.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 16}, {86, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -3}</string>
+			<key>spriteSize</key>
+			<string>{86, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{354, 682}, {80, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0125.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0126.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 15}, {86, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -3}</string>
+			<key>spriteSize</key>
+			<string>{86, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{249, 864}, {82, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0127.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0128.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 18}, {86, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -4}</string>
+			<key>spriteSize</key>
+			<string>{86, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{476, 426}, {78, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0129.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0130.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 19}, {86, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -5}</string>
+			<key>spriteSize</key>
+			<string>{86, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{557, 298}, {78, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0131.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0132.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 18}, {86, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -5}</string>
+			<key>spriteSize</key>
+			<string>{86, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{328, 771}, {80, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0133.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0134.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 19}, {84, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -7}</string>
+			<key>spriteSize</key>
+			<string>{84, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 858}, {82, 84}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0135.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0136.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{60, 12}, {78, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -1}</string>
+			<key>spriteSize</key>
+			<string>{78, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{555, 426}, {78, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0137.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0138.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{60, 8}, {76, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 1}</string>
+			<key>spriteSize</key>
+			<string>{76, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{616, 0}, {76, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0139.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0140.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{57, 13}, {78, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSize</key>
+			<string>{78, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{496, 594}, {78, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0141.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0142.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{56, 17}, {78, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -4}</string>
+			<key>spriteSize</key>
+			<string>{78, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{601, 677}, {78, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0143.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0144.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 16}, {82, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{82, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{519, 513}, {82, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0145.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0146.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 12}, {82, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{82, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{693, 0}, {82, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0147.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0148.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{53, 12}, {82, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -1}</string>
+			<key>spriteSize</key>
+			<string>{82, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{435, 681}, {82, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0149.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0150.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{55, 15}, {82, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -3}</string>
+			<key>spriteSize</key>
+			<string>{82, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{602, 511}, {82, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0151.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0152.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{58, 17}, {80, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -4}</string>
+			<key>spriteSize</key>
+			<string>{80, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{571, 849}, {80, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0153.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0154.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{58, 17}, {78, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -4}</string>
+			<key>spriteSize</key>
+			<string>{78, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{792, 286}, {78, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0155.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0156.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{58, 12}, {76, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -1}</string>
+			<key>spriteSize</key>
+			<string>{76, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{636, 296}, {76, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0157.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0158.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{56, 12}, {76, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -1}</string>
+			<key>spriteSize</key>
+			<string>{76, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{415, 854}, {76, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0159.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0160.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{53, 15}, {78, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{78, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{713, 292}, {78, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0161.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0162.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{52, 16}, {78, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{78, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{575, 762}, {78, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0163.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0164.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 5}, {92, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 2}</string>
+			<key>spriteSize</key>
+			<string>{92, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{91, 694}, {92, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>ettin_0165.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0166.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 6}, {100, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 2}</string>
+			<key>spriteSize</key>
+			<string>{100, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 707}, {90, 100}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0167.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0168.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 13}, {108, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -2}</string>
+			<key>spriteSize</key>
+			<string>{108, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{49, 449}, {84, 108}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0169.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0170.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 28}, {110, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -9}</string>
+			<key>spriteSize</key>
+			<string>{110, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 596}, {68, 110}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0171.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0172.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 28}, {114, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{15, -12}</string>
+			<key>spriteSize</key>
+			<string>{114, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{205, 0}, {74, 114}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0173.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0174.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 28}, {122, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -12}</string>
+			<key>spriteSize</key>
+			<string>{122, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{45, 151}, {74, 122}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0175.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0176.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 54}, {144, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -25}</string>
+			<key>spriteSize</key>
+			<string>{144, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 451}, {48, 144}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0177.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0178.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 60}, {148, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -28}</string>
+			<key>spriteSize</key>
+			<string>{148, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 302}, {42, 148}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0179.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0180.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 57}, {150, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -27}</string>
+			<key>spriteSize</key>
+			<string>{150, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {46, 150}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>ettin_0181.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>ettin_0184.png</string>
+			
+				<string>ettin_0185.png</string>
+			
+				<string>ettin_0183.png</string>
+			
+				<string>ettin_0182.png</string>
+			
+				<string>ettin_0186.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 58}, {150, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -27}</string>
+			<key>spriteSize</key>
+			<string>{150, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 106}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 151}, {44, 150}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0083.png</string>
+			
+				<string>harraser_0110.png</string>
+			
+				<string>harraser_0084.png</string>
+			
+				<string>harraser_0082.png</string>
+			
+				<string>harraser_0109.png</string>
+			
+				<string>harraser_0048.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 36}, {42, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -11}</string>
+			<key>spriteSize</key>
+			<string>{42, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{737, 664}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0003.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 41}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -14}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{822, 952}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0005.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 38}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -12}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{822, 915}, {34, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0007.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 36}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -11}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{678, 976}, {36, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 36}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -11}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{820, 845}, {38, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0010.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 38}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -12}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{787, 989}, {36, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0012.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 40}, {32, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -13}</string>
+			<key>spriteSize</key>
+			<string>{32, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{857, 950}, {32, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0014.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 41}, {30, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -14}</string>
+			<key>spriteSize</key>
+			<string>{30, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{159, 269}, {34, 30}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0016.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 38}, {28, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -12}</string>
+			<key>spriteSize</key>
+			<string>{28, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 269}, {36, 28}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0018.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 36}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -11}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{856, 607}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 36}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{991, 723}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0021.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 38}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -12}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{787, 952}, {34, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0023.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 40}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -13}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{824, 987}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0025.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 36}, {42, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -11}</string>
+			<key>spriteSize</key>
+			<string>{42, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{737, 625}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0027.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 36}, {40, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -11}</string>
+			<key>spriteSize</key>
+			<string>{40, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{907, 748}, {40, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0029.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 36}, {40, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -11}</string>
+			<key>spriteSize</key>
+			<string>{40, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{699, 822}, {40, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0031.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 36}, {52, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -11}</string>
+			<key>spriteSize</key>
+			<string>{52, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{967, 391}, {52, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0033.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 36}, {48, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -11}</string>
+			<key>spriteSize</key>
+			<string>{48, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{945, 473}, {48, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0035.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 36}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -11}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{781, 839}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0037.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 36}, {34, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -11}</string>
+			<key>spriteSize</key>
+			<string>{34, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{854, 646}, {34, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0039.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 36}, {44, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -11}</string>
+			<key>spriteSize</key>
+			<string>{44, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{934, 590}, {44, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0041.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 36}, {52, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -12}</string>
+			<key>spriteSize</key>
+			<string>{52, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{932, 75}, {40, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0043.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 36}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -12}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{889, 576}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0045.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 37}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -12}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{969, 801}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0047.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 38}, {42, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -12}</string>
+			<key>spriteSize</key>
+			<string>{42, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{823, 722}, {42, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0050.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 25}, {40, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -6}</string>
+			<key>spriteSize</key>
+			<string>{40, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{973, 125}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0052.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 34}, {36, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -11}</string>
+			<key>spriteSize</key>
+			<string>{36, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{823, 685}, {42, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0054.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 35}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -11}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{807, 759}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0055.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0056.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 31}, {36, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -9}</string>
+			<key>spriteSize</key>
+			<string>{36, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{889, 654}, {44, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0058.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 25}, {40, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -6}</string>
+			<key>spriteSize</key>
+			<string>{40, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{973, 84}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0060.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 25}, {42, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -6}</string>
+			<key>spriteSize</key>
+			<string>{42, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{755, 375}, {42, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0062.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 27}, {46, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{46, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{847, 437}, {48, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0063.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0064.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 28}, {38, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -8}</string>
+			<key>spriteSize</key>
+			<string>{38, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{843, 484}, {48, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0066.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 25}, {42, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -6}</string>
+			<key>spriteSize</key>
+			<string>{42, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{973, 0}, {50, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 27}, {46, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{46, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{900, 404}, {48, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0068.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0069.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 28}, {38, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -8}</string>
+			<key>spriteSize</key>
+			<string>{38, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{794, 502}, {48, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0070.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0071.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 25}, {42, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -6}</string>
+			<key>spriteSize</key>
+			<string>{42, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{231, 247}, {42, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0072.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0073.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 27}, {44, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -7}</string>
+			<key>spriteSize</key>
+			<string>{44, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{794, 457}, {48, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0074.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0075.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 29}, {40, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -8}</string>
+			<key>spriteSize</key>
+			<string>{40, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 535}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0076.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0077.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 37}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -12}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{930, 801}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0079.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 36}, {28, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -12}</string>
+			<key>spriteSize</key>
+			<string>{28, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{193, 398}, {40, 28}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0080.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0081.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 36}, {36, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -12}</string>
+			<key>spriteSize</key>
+			<string>{36, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{889, 787}, {40, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0085.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0086.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 29}, {40, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -8}</string>
+			<key>spriteSize</key>
+			<string>{40, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{843, 523}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0087.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0088.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 22}, {42, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{42, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{967, 348}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0089.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0090.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 13}, {48, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{48, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{838, 85}, {48, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0091.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0092.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 18}, {36, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 8}</string>
+			<key>spriteSize</key>
+			<string>{36, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{750, 923}, {36, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0093.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0094.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 19}, {34, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 9}</string>
+			<key>spriteSize</key>
+			<string>{34, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{857, 915}, {32, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0095.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0096.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 19}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 9}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{859, 985}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0097.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0098.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 13}, {44, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{44, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{887, 81}, {44, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0099.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0100.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 1}, {40, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 6}</string>
+			<key>spriteSize</key>
+			<string>{40, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{487, 385}, {74, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0101.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0102.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 9}, {38, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 2}</string>
+			<key>spriteSize</key>
+			<string>{38, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{420, 387}, {66, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0104.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 22}, {42, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -4}</string>
+			<key>spriteSize</key>
+			<string>{42, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{914, 312}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0105.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0106.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 31}, {40, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -9}</string>
+			<key>spriteSize</key>
+			<string>{40, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{809, 609}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0107.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0108.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 39}, {42, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -13}</string>
+			<key>spriteSize</key>
+			<string>{42, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 689}, {42, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0111.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0112.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 28}, {36, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, -7}</string>
+			<key>spriteSize</key>
+			<string>{36, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{877, 229}, {36, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0113.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0114.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 25}, {40, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -6}</string>
+			<key>spriteSize</key>
+			<string>{40, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{973, 166}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0115.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0116.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 31}, {52, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, -9}</string>
+			<key>spriteSize</key>
+			<string>{52, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{967, 303}, {52, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0117.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0118.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 36}, {58, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, -15}</string>
+			<key>spriteSize</key>
+			<string>{58, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{526, 239}, {46, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0119.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0120.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 49}, {50, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-20, -21}</string>
+			<key>spriteSize</key>
+			<string>{50, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{134, 524}, {50, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0121.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0122.png</string>
+			
+				<string>harraser_0123.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 45}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-19, -22}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{871, 355}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0124.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0125.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 42}, {36, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -14}</string>
+			<key>spriteSize</key>
+			<string>{36, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{855, 882}, {36, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0126.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0127.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 36}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -11}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{740, 847}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0128.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0129.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 36}, {40, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{40, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{848, 769}, {40, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0130.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 35}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{909, 707}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0131.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0132.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 37}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -12}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{699, 861}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0133.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0134.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 40}, {38, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -13}</string>
+			<key>spriteSize</key>
+			<string>{38, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{715, 937}, {34, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0135.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0136.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 43}, {36, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -15}</string>
+			<key>spriteSize</key>
+			<string>{36, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{818, 882}, {36, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0137.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0138.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 36}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -11}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{863, 824}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0139.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0140.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 35}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{866, 728}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0141.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 35}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{699, 781}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0142.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0143.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 38}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -12}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{822, 808}, {40, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0144.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0145.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 40}, {38, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -13}</string>
+			<key>spriteSize</key>
+			<string>{38, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{989, 762}, {34, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0146.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0147.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 41}, {36, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -14}</string>
+			<key>spriteSize</key>
+			<string>{36, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{752, 960}, {34, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0148.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0149.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 37}, {40, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -12}</string>
+			<key>spriteSize</key>
+			<string>{40, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{948, 762}, {40, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0150.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0151.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 34}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -10}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{699, 740}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0152.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 34}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -10}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{766, 726}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0153.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0154.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 35}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{740, 808}, {40, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0155.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0156.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 39}, {38, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -13}</string>
+			<key>spriteSize</key>
+			<string>{38, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{699, 900}, {38, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0157.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0158.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 39}, {36, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -13}</string>
+			<key>spriteSize</key>
+			<string>{36, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{715, 976}, {36, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0159.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0160.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 35}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -11}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{781, 800}, {40, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0161.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0162.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 34}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -10}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{740, 767}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>harraser_0163.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 33}, {40, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -10}</string>
+			<key>spriteSize</key>
+			<string>{40, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{977, 682}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0164.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0165.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 35}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -11}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{950, 723}, {40, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>harraser_0166.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>harraser_0167.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 38}, {38, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -12}</string>
+			<key>spriteSize</key>
+			<string>{38, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{779, 878}, {38, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 24}, {48, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{221, 115}, {48, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0003.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 17}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 3}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{896, 451}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 17}, {50, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{50, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{973, 43}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 16}, {48, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{48, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{924, 355}, {42, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 17}, {50, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{50, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{798, 367}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 20}, {44, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 1}</string>
+			<key>spriteSize</key>
+			<string>{44, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{986, 512}, {38, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 24}, {44, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 115}, {44, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 26}, {42, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -2}</string>
+			<key>spriteSize</key>
+			<string>{42, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{856, 564}, {32, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 28}, {42, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -3}</string>
+			<key>spriteSize</key>
+			<string>{42, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{100, 119}, {42, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 27}, {40, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{40, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{143, 119}, {40, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0013.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 14}, {36, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{36, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{979, 602}, {44, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0015.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 12}, {36, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 5}</string>
+			<key>spriteSize</key>
+			<string>{36, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{937, 553}, {46, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0017.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 13}, {36, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 5}</string>
+			<key>spriteSize</key>
+			<string>{36, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{934, 629}, {44, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0019.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 19}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{738, 886}, {38, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0021.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 27}, {36, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{36, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{184, 119}, {36, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0023.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 23}, {36, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{36, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{787, 915}, {34, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0025.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 19}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{678, 937}, {36, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0027.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 16}, {36, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{36, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{723, 703}, {42, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0029.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 16}, {36, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{36, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{866, 691}, {42, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0031.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 13}, {36, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 5}</string>
+			<key>spriteSize</key>
+			<string>{36, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{889, 617}, {44, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 20}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -1}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{680, 675}, {42, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 21}, {68, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -1}</string>
+			<key>spriteSize</key>
+			<string>{68, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{562, 385}, {68, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 21}, {68, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -3}</string>
+			<key>spriteSize</key>
+			<string>{68, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{686, 381}, {68, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 30}, {66, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -8}</string>
+			<key>spriteSize</key>
+			<string>{66, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{49, 558}, {66, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 25}, {60, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -4}</string>
+			<key>spriteSize</key>
+			<string>{60, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{681, 89}, {38, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 25}, {54, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -4}</string>
+			<key>spriteSize</key>
+			<string>{54, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{914, 228}, {54, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 25}, {62, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -3}</string>
+			<key>spriteSize</key>
+			<string>{62, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{116, 558}, {62, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 15}, {36, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{36, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{369, 389}, {50, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 15}, {36, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{36, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{308, 389}, {60, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 19}, {42, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -7}</string>
+			<key>spriteSize</key>
+			<string>{42, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{732, 235}, {42, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 21}, {42, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -8}</string>
+			<key>spriteSize</key>
+			<string>{42, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{969, 207}, {54, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 21}, {38, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -6}</string>
+			<key>spriteSize</key>
+			<string>{38, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{849, 398}, {50, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 26}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -7}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 650}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {40, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -13}</string>
+			<key>spriteSize</key>
+			<string>{40, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{932, 128}, {40, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 16}, {40, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{40, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{939, 512}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 5}, {40, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{40, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{631, 385}, {54, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0048.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 5}, {44, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 7}</string>
+			<key>spriteSize</key>
+			<string>{44, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{687, 235}, {44, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 5}, {44, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 9}</string>
+			<key>spriteSize</key>
+			<string>{44, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{914, 267}, {52, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 11}, {42, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 5}</string>
+			<key>spriteSize</key>
+			<string>{42, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{949, 430}, {48, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>hyena_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 1}, {46, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 9}</string>
+			<key>spriteSize</key>
+			<string>{46, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{634, 89}, {46, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 17}, {46, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{46, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{892, 492}, {46, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 17}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{764, 541}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0055.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 18}, {42, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{42, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{934, 666}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0056.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0057.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 16}, {42, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 3}</string>
+			<key>spriteSize</key>
+			<string>{42, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{979, 639}, {42, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0059.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 14}, {44, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 4}</string>
+			<key>spriteSize</key>
+			<string>{44, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{811, 564}, {44, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0061.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 15}, {44, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 4}</string>
+			<key>spriteSize</key>
+			<string>{44, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{764, 582}, {44, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0062.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0063.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 13}, {40, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 5}</string>
+			<key>spriteSize</key>
+			<string>{40, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{984, 557}, {40, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0064.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0065.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 32}, {56, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -5}</string>
+			<key>spriteSize</key>
+			<string>{56, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{45, 274}, {56, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0066.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0067.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 29}, {56, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -3}</string>
+			<key>spriteSize</key>
+			<string>{56, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 398}, {56, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0068.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0069.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 31}, {56, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -4}</string>
+			<key>spriteSize</key>
+			<string>{56, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{102, 274}, {56, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hyena_0070.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>hyena_0071.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 33}, {56, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -5}</string>
+			<key>spriteSize</key>
+			<string>{56, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 998}, {56, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0002.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 11}, {64, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 21}</string>
+			<key>spriteSize</key>
+			<string>{64, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{573, 239}, {64, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0004.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {62, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 17}</string>
+			<key>spriteSize</key>
+			<string>{62, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{783, 85}, {54, 62}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 15}, {64, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 18}</string>
+			<key>spriteSize</key>
+			<string>{64, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{382, 95}, {64, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0008.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 16}, {70, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 21}</string>
+			<key>spriteSize</key>
+			<string>{70, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{652, 843}, {46, 70}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0010.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 18}, {70, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 18}</string>
+			<key>spriteSize</key>
+			<string>{70, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{629, 930}, {48, 70}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0012.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 6}, {62, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 24}</string>
+			<key>spriteSize</key>
+			<string>{62, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{510, 89}, {62, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0014.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 6}, {62, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 23}</string>
+			<key>spriteSize</key>
+			<string>{62, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{720, 85}, {62, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0016.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 9}, {68, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 23}</string>
+			<key>spriteSize</key>
+			<string>{68, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{392, 241}, {68, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0018.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 18}, {54, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 16}</string>
+			<key>spriteSize</key>
+			<string>{54, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{775, 231}, {52, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0020.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 17}, {48, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 16}</string>
+			<key>spriteSize</key>
+			<string>{48, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{914, 179}, {54, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0022.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 15}, {68, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 23}</string>
+			<key>spriteSize</key>
+			<string>{68, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{654, 758}, {44, 68}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0024.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 15}, {74, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 22}</string>
+			<key>spriteSize</key>
+			<string>{74, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 930}, {46, 74}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0026.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 4}, {60, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 26}</string>
+			<key>spriteSize</key>
+			<string>{60, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{573, 89}, {60, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0028.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 4}, {54, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 25}</string>
+			<key>spriteSize</key>
+			<string>{54, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{447, 95}, {62, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0030.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 9}, {64, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 22}</string>
+			<key>spriteSize</key>
+			<string>{64, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{461, 239}, {64, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0032.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 21}, {54, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSize</key>
+			<string>{54, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{828, 231}, {48, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0034.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 19}, {48, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 17}</string>
+			<key>spriteSize</key>
+			<string>{48, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{798, 408}, {48, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0036.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 17}, {68, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 22}</string>
+			<key>spriteSize</key>
+			<string>{68, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{871, 286}, {42, 68}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0038.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 12}, {74, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 24}</string>
+			<key>spriteSize</key>
+			<string>{74, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{924, 0}, {48, 74}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0040.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 1}, {58, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 27}</string>
+			<key>spriteSize</key>
+			<string>{58, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{164, 965}, {64, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0042.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 1}, {54, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 26}</string>
+			<key>spriteSize</key>
+			<string>{54, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{315, 95}, {66, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0044.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 20}, {56, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 16}</string>
+			<key>spriteSize</key>
+			<string>{56, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{638, 235}, {48, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0046.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 22}, {58, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 14}</string>
+			<key>spriteSize</key>
+			<string>{58, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{229, 965}, {48, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0048.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 20}, {58, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 14}</string>
+			<key>spriteSize</key>
+			<string>{58, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{333, 245}, {58, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0050.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 21}, {58, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 13}</string>
+			<key>spriteSize</key>
+			<string>{58, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{274, 245}, {58, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0052.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 21}, {52, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 13}</string>
+			<key>spriteSize</key>
+			<string>{52, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{969, 250}, {52, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0054.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 24}, {52, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 21}</string>
+			<key>spriteSize</key>
+			<string>{52, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{47, 119}, {52, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0055.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0056.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 22}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 22}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 915}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0058.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 22}, {14, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 25}</string>
+			<key>spriteSize</key>
+			<string>{14, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{43, 427}, {26, 14}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>perython_0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>perython_0060.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{55, 21}, {4, 4}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 37}</string>
+			<key>spriteSize</key>
+			<string>{4, 4}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{120, 269}, {4, 4}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>perython_0061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 110}, {24, 6}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -53}</string>
+			<key>spriteSize</key>
+			<string>{24, 6}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 120}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{43, 442}, {24, 6}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>elves_woods_enemies-hd.zwd</string>
+		<key>textureFileName</key>
+		<string>elves_woods_enemies-hd.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

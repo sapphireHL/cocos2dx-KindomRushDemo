@@ -1,0 +1,8243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>gnoll_blighter_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{617, 47}, {52, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0003.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 27}, {46, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{46, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{693, 300}, {46, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0005.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 28}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{721, 394}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0007.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 27}, {46, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{46, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{646, 300}, {46, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0009.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 27}, {46, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{46, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{724, 625}, {46, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0011.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 27}, {44, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{44, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{762, 349}, {48, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0013.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 27}, {44, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{44, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{744, 441}, {44, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0015.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 27}, {46, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{46, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{664, 349}, {46, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0017.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 27}, {46, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -7}</string>
+			<key>spriteSize</key>
+			<string>{46, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{717, 576}, {46, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0019.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 26}, {50, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -6}</string>
+			<key>spriteSize</key>
+			<string>{50, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{669, 682}, {48, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0021.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 25}, {50, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -6}</string>
+			<key>spriteSize</key>
+			<string>{50, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{694, 829}, {50, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0023.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 24}, {52, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -5}</string>
+			<key>spriteSize</key>
+			<string>{52, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 259}, {50, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0025.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 25}, {50, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -6}</string>
+			<key>spriteSize</key>
+			<string>{50, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{724, 880}, {50, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0027.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 25}, {46, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -6}</string>
+			<key>spriteSize</key>
+			<string>{46, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{714, 0}, {50, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0029.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 25}, {44, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -6}</string>
+			<key>spriteSize</key>
+			<string>{44, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{764, 576}, {50, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0031.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 27}, {44, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{44, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{785, 292}, {44, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0033.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 33}, {50, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -11}</string>
+			<key>spriteSize</key>
+			<string>{50, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{732, 194}, {44, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0035.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 32}, {50, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -10}</string>
+			<key>spriteSize</key>
+			<string>{50, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{681, 492}, {50, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0037.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 31}, {50, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -9}</string>
+			<key>spriteSize</key>
+			<string>{50, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{740, 298}, {44, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0039.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 31}, {50, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -9}</string>
+			<key>spriteSize</key>
+			<string>{50, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{773, 129}, {44, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0041.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 30}, {50, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -8}</string>
+			<key>spriteSize</key>
+			<string>{50, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{711, 349}, {50, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0043.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 30}, {50, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -8}</string>
+			<key>spriteSize</key>
+			<string>{50, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{732, 492}, {50, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0045.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 29}, {50, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -8}</string>
+			<key>spriteSize</key>
+			<string>{50, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{595, 255}, {46, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0047.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 29}, {50, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -8}</string>
+			<key>spriteSize</key>
+			<string>{50, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{599, 306}, {46, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0048.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0049.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 29}, {50, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -8}</string>
+			<key>spriteSize</key>
+			<string>{50, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{642, 94}, {46, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0051.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 28}, {50, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -7}</string>
+			<key>spriteSize</key>
+			<string>{50, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{638, 149}, {46, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0053.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 28}, {48, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -7}</string>
+			<key>spriteSize</key>
+			<string>{48, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{617, 357}, {46, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0055.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -7}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{746, 245}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0056.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0057.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 29}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -8}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{818, 129}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0059.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 29}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -8}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{777, 180}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0061.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 31}, {50, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -9}</string>
+			<key>spriteSize</key>
+			<string>{50, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{676, 398}, {44, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0062.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0063.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 26}, {52, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -6}</string>
+			<key>spriteSize</key>
+			<string>{52, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{511, 49}, {52, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0064.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0065.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 27}, {52, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{555, 0}, {52, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0066.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0067.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 27}, {52, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{499, 153}, {48, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0068.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0069.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{745, 829}, {52, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0070.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0071.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{775, 876}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0072.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0073.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 29}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -8}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{548, 257}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0074.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0075.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 30}, {52, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -8}</string>
+			<key>spriteSize</key>
+			<string>{52, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{642, 255}, {52, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0076.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0077.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 30}, {52, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -8}</string>
+			<key>spriteSize</key>
+			<string>{52, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{644, 200}, {44, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0079.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 29}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -8}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{688, 733}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0080.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0081.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{783, 929}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0082.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0083.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 26}, {54, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -6}</string>
+			<key>spriteSize</key>
+			<string>{54, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{514, 492}, {54, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0084.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0085.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 25}, {54, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -6}</string>
+			<key>spriteSize</key>
+			<string>{54, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{348, 110}, {50, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0087.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 23}, {52, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -5}</string>
+			<key>spriteSize</key>
+			<string>{52, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{681, 954}, {52, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0088.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0089.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 24}, {52, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -5}</string>
+			<key>spriteSize</key>
+			<string>{52, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 153}, {50, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0090.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0091.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 25}, {52, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -6}</string>
+			<key>spriteSize</key>
+			<string>{52, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 206}, {50, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0092.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{548, 98}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0093.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0094.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{552, 310}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0095.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0096.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 21}, {54, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -4}</string>
+			<key>spriteSize</key>
+			<string>{54, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{350, 360}, {54, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0097.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0098.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 19}, {58, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -3}</string>
+			<key>spriteSize</key>
+			<string>{58, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{337, 915}, {56, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0099.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0101.png</string>
+			
+				<string>gnoll_blighter_0102.png</string>
+			
+				<string>gnoll_blighter_0100.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 19}, {58, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -3}</string>
+			<key>spriteSize</key>
+			<string>{58, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{394, 909}, {56, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0104.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 18}, {52, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -5}</string>
+			<key>spriteSize</key>
+			<string>{52, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{368, 787}, {52, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0105.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0106.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 18}, {52, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -6}</string>
+			<key>spriteSize</key>
+			<string>{52, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{323, 669}, {52, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0107.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0108.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 37}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -16}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{735, 729}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0109.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0110.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 39}, {52, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -17}</string>
+			<key>spriteSize</key>
+			<string>{52, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{689, 94}, {52, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0111.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0112.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 33}, {36, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -10}</string>
+			<key>spriteSize</key>
+			<string>{36, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{814, 664}, {36, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0113.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0114.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{670, 580}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0115.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0116.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{743, 782}, {52, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0117.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0118.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 32}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -9}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{854, 969}, {38, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0119.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0120.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 34}, {50, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -10}</string>
+			<key>spriteSize</key>
+			<string>{50, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{856, 321}, {40, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0121.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0122.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 34}, {50, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -10}</string>
+			<key>spriteSize</key>
+			<string>{50, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{926, 0}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0123.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0124.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 34}, {50, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -10}</string>
+			<key>spriteSize</key>
+			<string>{50, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{946, 86}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0125.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0126.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 34}, {50, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -10}</string>
+			<key>spriteSize</key>
+			<string>{50, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 129}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0127.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 34}, {50, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -11}</string>
+			<key>spriteSize</key>
+			<string>{50, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{835, 43}, {50, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0128.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0129.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 34}, {62, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{14, -10}</string>
+			<key>spriteSize</key>
+			<string>{62, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{734, 984}, {62, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0130.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 35}, {64, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -11}</string>
+			<key>spriteSize</key>
+			<string>{64, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{678, 788}, {64, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0131.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0132.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 34}, {66, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{14, -10}</string>
+			<key>spriteSize</key>
+			<string>{66, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{389, 415}, {66, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0133.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0134.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 34}, {52, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -10}</string>
+			<key>spriteSize</key>
+			<string>{52, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{873, 0}, {52, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0135.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0136.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 32}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -9}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{814, 621}, {38, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0137.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0138.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{595, 96}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0139.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0206.png</string>
+			
+				<string>gnoll_blighter_0184.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{548, 204}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0140.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0141.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{548, 151}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0142.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0143.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 21}, {58, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -4}</string>
+			<key>spriteSize</key>
+			<string>{58, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{187, 132}, {54, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0144.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0145.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 18}, {60, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -2}</string>
+			<key>spriteSize</key>
+			<string>{60, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 673}, {56, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0146.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0147.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 17}, {60, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -2}</string>
+			<key>spriteSize</key>
+			<string>{60, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{248, 857}, {58, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0148.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0149.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 17}, {62, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -2}</string>
+			<key>spriteSize</key>
+			<string>{62, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 414}, {58, 62}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0150.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 17}, {66, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{66, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{128, 201}, {58, 66}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0151.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 17}, {66, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{66, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 65}, {58, 66}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0152.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 17}, {66, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{66, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{128, 134}, {58, 66}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0153.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 17}, {66, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{66, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{126, 347}, {58, 66}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0154.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 17}, {66, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{66, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 0}, {66, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0155.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 17}, {66, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{66, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{126, 280}, {58, 66}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0156.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 17}, {66, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{66, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{73, 430}, {58, 66}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0157.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 17}, {68, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{68, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{73, 65}, {58, 68}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0158.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 27}, {62, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -8}</string>
+			<key>spriteSize</key>
+			<string>{62, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{264, 0}, {62, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0159.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 27}, {64, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -8}</string>
+			<key>spriteSize</key>
+			<string>{64, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{201, 496}, {64, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0160.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 27}, {62, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{10, -7}</string>
+			<key>spriteSize</key>
+			<string>{62, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{348, 297}, {48, 62}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0161.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 27}, {56, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -7}</string>
+			<key>spriteSize</key>
+			<string>{56, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{399, 163}, {48, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0162.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0163.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 27}, {56, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -7}</string>
+			<key>spriteSize</key>
+			<string>{56, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{443, 0}, {56, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0164.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0165.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 27}, {58, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -7}</string>
+			<key>spriteSize</key>
+			<string>{58, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{525, 860}, {58, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0166.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0167.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 26}, {48, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -6}</string>
+			<key>spriteSize</key>
+			<string>{48, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{595, 206}, {48, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0168.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{608, 0}, {52, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0169.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 28}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{564, 49}, {52, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0170.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 23}, {52, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -5}</string>
+			<key>spriteSize</key>
+			<string>{52, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{625, 795}, {52, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0171.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 23}, {50, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -5}</string>
+			<key>spriteSize</key>
+			<string>{50, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{456, 365}, {50, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0172.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 21}, {48, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -4}</string>
+			<key>spriteSize</key>
+			<string>{48, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{527, 541}, {54, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0173.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 21}, {44, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-18, -4}</string>
+			<key>spriteSize</key>
+			<string>{44, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{626, 492}, {54, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0174.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0175.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 26}, {52, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-24, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{456, 312}, {50, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0176.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0177.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 41}, {56, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-22, -18}</string>
+			<key>spriteSize</key>
+			<string>{56, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{595, 149}, {42, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0178.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0179.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 49}, {58, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -23}</string>
+			<key>spriteSize</key>
+			<string>{58, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{548, 455}, {58, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0180.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0181.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 49}, {58, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -23}</string>
+			<key>spriteSize</key>
+			<string>{58, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{456, 418}, {58, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0182.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0183.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 49}, {58, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -23}</string>
+			<key>spriteSize</key>
+			<string>{58, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 455}, {58, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0185.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0186.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 29}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -8}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{661, 0}, {52, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0187.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0188.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 32}, {54, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -9}</string>
+			<key>spriteSize</key>
+			<string>{54, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{689, 198}, {42, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0189.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0190.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 32}, {54, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -9}</string>
+			<key>spriteSize</key>
+			<string>{54, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 139}, {42, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0191.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_blighter_0192.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 16}, {58, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{58, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 614}, {58, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0193.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 15}, {58, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -1}</string>
+			<key>spriteSize</key>
+			<string>{58, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{278, 918}, {58, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0194.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 15}, {58, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -1}</string>
+			<key>spriteSize</key>
+			<string>{58, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{246, 796}, {58, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0195.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 11}, {56, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 1}</string>
+			<key>spriteSize</key>
+			<string>{56, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{146, 739}, {64, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0196.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 11}, {56, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 1}</string>
+			<key>spriteSize</key>
+			<string>{56, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 639}, {56, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0197.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 7}, {52, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 3}</string>
+			<key>spriteSize</key>
+			<string>{52, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{193, 796}, {52, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0198.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 7}, {52, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 3}</string>
+			<key>spriteSize</key>
+			<string>{52, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{179, 548}, {52, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0199.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 3}, {54, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 5}</string>
+			<key>spriteSize</key>
+			<string>{54, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{73, 134}, {54, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0200.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 3}, {54, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 5}</string>
+			<key>spriteSize</key>
+			<string>{54, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{73, 207}, {54, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0201.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 1}, {52, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 6}</string>
+			<key>spriteSize</key>
+			<string>{52, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{73, 280}, {52, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0202.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 1}, {52, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 6}</string>
+			<key>spriteSize</key>
+			<string>{52, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{73, 355}, {52, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0203.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 2}, {50, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 6}</string>
+			<key>spriteSize</key>
+			<string>{50, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{128, 497}, {72, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_blighter_0204.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 2}, {52, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 6}</string>
+			<key>spriteSize</key>
+			<string>{52, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{73, 568}, {52, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_blighter_0205.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 20}, {52, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -3}</string>
+			<key>spriteSize</key>
+			<string>{52, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{472, 823}, {52, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0002.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 16}, {56, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -4}</string>
+			<key>spriteSize</key>
+			<string>{56, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{797, 982}, {56, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0004.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 16}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -4}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{782, 43}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 15}, {54, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -3}</string>
+			<key>spriteSize</key>
+			<string>{54, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{742, 86}, {54, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 14}, {56, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -3}</string>
+			<key>spriteSize</key>
+			<string>{56, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{507, 312}, {44, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0009.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 15}, {58, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -3}</string>
+			<key>spriteSize</key>
+			<string>{58, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 537}, {58, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0011.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 19}, {60, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -5}</string>
+			<key>spriteSize</key>
+			<string>{60, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{721, 47}, {60, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0013.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 16}, {58, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -4}</string>
+			<key>spriteSize</key>
+			<string>{58, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{665, 639}, {58, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0015.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 15}, {58, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -3}</string>
+			<key>spriteSize</key>
+			<string>{58, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{627, 580}, {42, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0017.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 15}, {50, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -3}</string>
+			<key>spriteSize</key>
+			<string>{50, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{797, 86}, {50, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 15}, {54, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -3}</string>
+			<key>spriteSize</key>
+			<string>{54, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{765, 0}, {54, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0020.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 14}, {56, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -3}</string>
+			<key>spriteSize</key>
+			<string>{56, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{507, 369}, {56, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0022.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 17}, {58, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -4}</string>
+			<key>spriteSize</key>
+			<string>{58, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{515, 414}, {58, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0024.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 13}, {44, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{875, 270}, {44, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0026.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 13}, {46, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{46, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{793, 227}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0028.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 13}, {44, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{883, 223}, {44, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 12}, {42, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{42, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{897, 315}, {42, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0031.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 14}, {44, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{44, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{914, 170}, {44, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0033.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 16}, {44, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{44, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{782, 711}, {42, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0035.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 15}, {44, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{44, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{796, 756}, {42, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0037.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 13}, {46, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{46, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{824, 176}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0039.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 12}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{783, 490}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 12}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{869, 176}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0042.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 15}, {42, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -3}</string>
+			<key>spriteSize</key>
+			<string>{42, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{798, 801}, {42, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0044.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 15}, {42, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{42, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{830, 926}, {42, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0046.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 11}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{830, 274}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0048.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 10}, {46, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{629, 406}, {46, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0050.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 11}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{838, 223}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 11}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{768, 394}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0053.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 13}, {44, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{858, 372}, {44, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0055.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 13}, {42, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{42, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{771, 666}, {42, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0056.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0057.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 12}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{834, 435}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0059.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 12}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{935, 41}, {46, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0061.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 11}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{828, 488}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0062.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 10}, {44, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{886, 41}, {48, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0063.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0064.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 12}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{811, 341}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0066.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 12}, {42, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{42, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{959, 170}, {46, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0068.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 11}, {42, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{961, 127}, {46, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0069.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0070.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 10}, {42, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{897, 86}, {48, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0071.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0072.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 10}, {42, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{695, 449}, {48, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0073.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0074.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 15}, {42, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{42, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{822, 844}, {42, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0075.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0076.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 12}, {42, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{42, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{928, 215}, {42, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0077.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0078.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 11}, {42, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{920, 268}, {42, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0079.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0080.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 13}, {42, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -2}</string>
+			<key>spriteSize</key>
+			<string>{42, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{982, 41}, {42, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0081.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0082.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 13}, {46, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -2}</string>
+			<key>spriteSize</key>
+			<string>{46, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{865, 129}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0083.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0084.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 14}, {50, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -3}</string>
+			<key>spriteSize</key>
+			<string>{50, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{695, 253}, {50, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0085.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0086.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 14}, {52, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, -3}</string>
+			<key>spriteSize</key>
+			<string>{52, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{685, 145}, {44, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0087.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 0}, {70, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 4}</string>
+			<key>spriteSize</key>
+			<string>{70, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{134, 798}, {58, 70}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0088.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 0}, {82, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 4}</string>
+			<key>spriteSize</key>
+			<string>{82, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{63, 739}, {82, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0089.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0090.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 8}, {70, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -0}</string>
+			<key>spriteSize</key>
+			<string>{70, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{189, 617}, {50, 70}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0091.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0092.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 5}, {70, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 2}</string>
+			<key>spriteSize</key>
+			<string>{70, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{126, 568}, {52, 70}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0093.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0094.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 4}, {70, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 2}</string>
+			<key>spriteSize</key>
+			<string>{70, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{73, 497}, {54, 70}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0095.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0096.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 2}, {72, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 3}</string>
+			<key>spriteSize</key>
+			<string>{72, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{191, 869}, {56, 72}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0097.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0098.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 1}, {38, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 4}</string>
+			<key>spriteSize</key>
+			<string>{38, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{698, 537}, {56, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0099.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0100.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 1}, {42, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{42, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{641, 537}, {56, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0101.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0102.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 11}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -1}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{564, 363}, {52, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0104.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 15}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -3}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{820, 0}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0105.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0106.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 12}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -2}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{718, 682}, {52, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0107.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0108.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 13}, {58, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -4}</string>
+			<key>spriteSize</key>
+			<string>{58, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{555, 693}, {58, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0109.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0110.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 13}, {60, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -4}</string>
+			<key>spriteSize</key>
+			<string>{60, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{396, 707}, {48, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0111.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0112.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 13}, {62, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -4}</string>
+			<key>spriteSize</key>
+			<string>{62, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{392, 495}, {62, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0113.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0114.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 12}, {62, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -3}</string>
+			<key>spriteSize</key>
+			<string>{62, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{344, 546}, {62, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0115.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0116.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 12}, {64, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{64, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{341, 974}, {64, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0117.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0118.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 12}, {66, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{66, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{199, 688}, {66, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0119.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0120.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 26}, {66, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{66, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 456}, {66, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0121.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0122.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 27}, {66, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{66, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 704}, {66, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0123.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0124.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 28}, {52, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -12}</string>
+			<key>spriteSize</key>
+			<string>{52, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{324, 460}, {52, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0125.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0126.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 45}, {52, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -20}</string>
+			<key>spriteSize</key>
+			<string>{52, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{63, 798}, {52, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0127.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0128.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 10}, {42, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{42, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{848, 86}, {48, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0129.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0130.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 7}, {56, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 1}</string>
+			<key>spriteSize</key>
+			<string>{56, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{498, 693}, {56, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0131.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0132.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 8}, {60, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, -0}</string>
+			<key>spriteSize</key>
+			<string>{60, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{299, 368}, {50, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0133.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0134.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 4}, {62, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 2}</string>
+			<key>spriteSize</key>
+			<string>{62, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{299, 606}, {54, 62}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0135.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0136.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {62, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 3}</string>
+			<key>spriteSize</key>
+			<string>{62, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{211, 739}, {62, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0137.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0138.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 1}, {74, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 4}</string>
+			<key>spriteSize</key>
+			<string>{74, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 968}, {74, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0139.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0140.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 1}, {74, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{74, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{75, 962}, {74, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0141.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0142.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 1}, {78, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 2}</string>
+			<key>spriteSize</key>
+			<string>{78, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 889}, {60, 78}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0143.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0144.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 0}, {78, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 2}</string>
+			<key>spriteSize</key>
+			<string>{78, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 739}, {62, 78}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_burner_0145.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0146.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 15}, {62, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{11, -5}</string>
+			<key>spriteSize</key>
+			<string>{62, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{429, 646}, {62, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_burner_0147.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_burner_0148.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 16}, {62, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{11, -5}</string>
+			<key>spriteSize</key>
+			<string>{62, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{88, 66}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{278, 979}, {62, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0002.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 42}, {50, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -8}</string>
+			<key>spriteSize</key>
+			<string>{50, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{670, 47}, {50, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0004.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 37}, {48, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -6}</string>
+			<key>spriteSize</key>
+			<string>{48, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{499, 206}, {48, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 35}, {48, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -5}</string>
+			<key>spriteSize</key>
+			<string>{48, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{500, 0}, {54, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 34}, {50, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -4}</string>
+			<key>spriteSize</key>
+			<string>{50, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{405, 330}, {50, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0009.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 36}, {52, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -6}</string>
+			<key>spriteSize</key>
+			<string>{52, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{468, 593}, {54, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0011.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 42}, {54, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -10}</string>
+			<key>spriteSize</key>
+			<string>{54, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{388, 0}, {54, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0013.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 40}, {54, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -9}</string>
+			<key>spriteSize</key>
+			<string>{54, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{474, 748}, {52, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0015.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 37}, {52, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -6}</string>
+			<key>spriteSize</key>
+			<string>{52, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{671, 901}, {52, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0017.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 35}, {50, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -5}</string>
+			<key>spriteSize</key>
+			<string>{50, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{616, 909}, {54, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 34}, {48, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{48, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{614, 692}, {54, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0020.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 36}, {50, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -6}</string>
+			<key>spriteSize</key>
+			<string>{50, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{348, 165}, {50, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0022.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 43}, {52, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -10}</string>
+			<key>spriteSize</key>
+			<string>{52, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{734, 931}, {48, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0024.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 41}, {60, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -9}</string>
+			<key>spriteSize</key>
+			<string>{60, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{327, 0}, {60, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0026.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 38}, {60, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -6}</string>
+			<key>spriteSize</key>
+			<string>{60, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{331, 495}, {60, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0028.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 36}, {64, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -5}</string>
+			<key>spriteSize</key>
+			<string>{64, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{331, 734}, {64, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 35}, {64, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -5}</string>
+			<key>spriteSize</key>
+			<string>{64, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{185, 268}, {54, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0031.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 35}, {62, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -5}</string>
+			<key>spriteSize</key>
+			<string>{62, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{305, 795}, {62, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0033.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 44}, {60, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -11}</string>
+			<key>spriteSize</key>
+			<string>{60, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{466, 544}, {60, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0035.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 39}, {58, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -8}</string>
+			<key>spriteSize</key>
+			<string>{58, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{344, 238}, {52, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0037.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 37}, {60, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -6}</string>
+			<key>spriteSize</key>
+			<string>{60, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{187, 191}, {52, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0039.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 35}, {64, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -5}</string>
+			<key>spriteSize</key>
+			<string>{64, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{191, 398}, {54, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 34}, {64, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -4}</string>
+			<key>spriteSize</key>
+			<string>{64, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{185, 333}, {54, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0042.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 37}, {64, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -6}</string>
+			<key>spriteSize</key>
+			<string>{64, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{307, 850}, {52, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0044.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 44}, {58, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -10}</string>
+			<key>spriteSize</key>
+			<string>{58, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{492, 646}, {58, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0046.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 41}, {56, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -8}</string>
+			<key>spriteSize</key>
+			<string>{56, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{401, 51}, {56, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0048.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 38}, {58, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -6}</string>
+			<key>spriteSize</key>
+			<string>{58, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{409, 595}, {58, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0050.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 36}, {60, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -5}</string>
+			<key>spriteSize</key>
+			<string>{60, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 191}, {52, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 36}, {60, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -5}</string>
+			<key>spriteSize</key>
+			<string>{60, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{191, 59}, {52, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0053.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 37}, {58, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -6}</string>
+			<key>spriteSize</key>
+			<string>{58, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{295, 114}, {52, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0055.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 44}, {56, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -9}</string>
+			<key>spriteSize</key>
+			<string>{56, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{569, 492}, {56, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0056.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0057.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 39}, {56, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -7}</string>
+			<key>spriteSize</key>
+			<string>{56, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{559, 909}, {56, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0059.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 37}, {58, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -6}</string>
+			<key>spriteSize</key>
+			<string>{58, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{295, 309}, {52, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0061.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 36}, {60, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -5}</string>
+			<key>spriteSize</key>
+			<string>{60, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{242, 120}, {52, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0062.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 36}, {60, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -5}</string>
+			<key>spriteSize</key>
+			<string>{60, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{203, 0}, {60, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0063.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0064.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 37}, {60, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -6}</string>
+			<key>spriteSize</key>
+			<string>{60, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{244, 53}, {52, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0066.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 44}, {54, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -9}</string>
+			<key>spriteSize</key>
+			<string>{54, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{574, 410}, {54, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0127.png</string>
+			
+				<string>gnoll_gnawer_0088.png</string>
+			
+				<string>gnoll_gnawer_0089.png</string>
+			
+				<string>gnoll_gnawer_0068.png</string>
+			
+				<string>gnoll_gnawer_0069.png</string>
+			
+				<string>gnoll_gnawer_0128.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 38}, {50, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -8}</string>
+			<key>spriteSize</key>
+			<string>{50, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{397, 220}, {50, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0070.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0071.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 17}, {64, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 4}</string>
+			<key>spriteSize</key>
+			<string>{64, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{61, 889}, {64, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0072.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0073.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 18}, {64, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 4}</string>
+			<key>spriteSize</key>
+			<string>{64, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{69, 815}, {64, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0074.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0077.png</string>
+			
+				<string>gnoll_gnawer_0076.png</string>
+			
+				<string>gnoll_gnawer_0075.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 19}, {68, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 3}</string>
+			<key>spriteSize</key>
+			<string>{68, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 818}, {68, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0079.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 26}, {74, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -2}</string>
+			<key>spriteSize</key>
+			<string>{74, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 664}, {66, 74}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0080.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0081.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 27}, {74, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -2}</string>
+			<key>spriteSize</key>
+			<string>{74, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{67, 664}, {64, 74}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0082.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0083.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 41}, {64, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{14, -9}</string>
+			<key>spriteSize</key>
+			<string>{64, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 496}, {64, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0084.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0085.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 43}, {64, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{14, -10}</string>
+			<key>spriteSize</key>
+			<string>{64, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 252}, {48, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0087.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 40}, {58, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{11, -8}</string>
+			<key>spriteSize</key>
+			<string>{58, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{455, 493}, {58, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0090.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0091.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 38}, {50, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -8}</string>
+			<key>spriteSize</key>
+			<string>{50, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{350, 51}, {50, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0092.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0093.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 40}, {52, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{499, 259}, {48, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0094.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0095.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 40}, {54, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -7}</string>
+			<key>spriteSize</key>
+			<string>{54, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{578, 590}, {48, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0096.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0097.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 40}, {52, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -7}</string>
+			<key>spriteSize</key>
+			<string>{52, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{499, 100}, {48, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0098.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0099.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 43}, {64, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -17}</string>
+			<key>spriteSize</key>
+			<string>{64, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{215, 942}, {62, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0100.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0101.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 43}, {64, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -19}</string>
+			<key>spriteSize</key>
+			<string>{64, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{126, 886}, {64, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0102.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 45}, {64, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{14, -20}</string>
+			<key>spriteSize</key>
+			<string>{64, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{150, 953}, {64, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 54}, {56, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -24}</string>
+			<key>spriteSize</key>
+			<string>{56, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{289, 252}, {54, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0104.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 54}, {56, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -24}</string>
+			<key>spriteSize</key>
+			<string>{56, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 317}, {54, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0105.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0106.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 57}, {54, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -26}</string>
+			<key>spriteSize</key>
+			<string>{54, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{506, 909}, {52, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0107.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0108.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 54}, {54, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -24}</string>
+			<key>spriteSize</key>
+			<string>{54, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{354, 595}, {54, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0109.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0110.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 55}, {56, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -25}</string>
+			<key>spriteSize</key>
+			<string>{56, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{293, 181}, {54, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0111.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0112.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 27}, {64, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{64, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{73, 0}, {62, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0113.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0114.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 37}, {66, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -6}</string>
+			<key>spriteSize</key>
+			<string>{66, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{232, 547}, {52, 66}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0115.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0116.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 52}, {56, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -18}</string>
+			<key>spriteSize</key>
+			<string>{56, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{631, 741}, {56, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0117.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0118.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 38}, {52, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -9}</string>
+			<key>spriteSize</key>
+			<string>{52, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{376, 650}, {52, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0119.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0120.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 37}, {58, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -9}</string>
+			<key>spriteSize</key>
+			<string>{58, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{285, 547}, {58, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0121.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0122.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 39}, {60, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -10}</string>
+			<key>spriteSize</key>
+			<string>{60, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{274, 734}, {56, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0123.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0124.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 40}, {58, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -10}</string>
+			<key>spriteSize</key>
+			<string>{58, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{417, 850}, {54, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0125.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0126.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 40}, {58, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -10}</string>
+			<key>spriteSize</key>
+			<string>{58, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{465, 968}, {58, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0129.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0130.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 29}, {50, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 2}</string>
+			<key>spriteSize</key>
+			<string>{50, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 100}, {50, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0131.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0132.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 24}, {50, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 7}</string>
+			<key>spriteSize</key>
+			<string>{50, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{458, 49}, {52, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0133.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0134.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 19}, {52, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 11}</string>
+			<key>spriteSize</key>
+			<string>{52, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{523, 593}, {54, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0135.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0136.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 22}, {52, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 9}</string>
+			<key>spriteSize</key>
+			<string>{52, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{578, 742}, {52, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0137.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0138.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 25}, {52, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 6}</string>
+			<key>spriteSize</key>
+			<string>{52, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{628, 960}, {52, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0139.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0140.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 27}, {52, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{52, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{641, 848}, {52, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0141.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0142.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 28}, {50, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 2}</string>
+			<key>spriteSize</key>
+			<string>{50, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{397, 275}, {50, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0143.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0144.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 26}, {58, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 3}</string>
+			<key>spriteSize</key>
+			<string>{58, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{406, 968}, {58, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0145.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0146.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 23}, {58, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 6}</string>
+			<key>spriteSize</key>
+			<string>{58, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{360, 850}, {56, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0147.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0148.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 20}, {58, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 11}</string>
+			<key>spriteSize</key>
+			<string>{58, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{297, 51}, {52, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0149.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0150.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 18}, {58, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 13}</string>
+			<key>spriteSize</key>
+			<string>{58, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{246, 374}, {52, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0151.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0152.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 21}, {58, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 12}</string>
+			<key>spriteSize</key>
+			<string>{58, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{576, 801}, {48, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0153.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0154.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 25}, {58, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 7}</string>
+			<key>spriteSize</key>
+			<string>{58, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{407, 544}, {58, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0155.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0156.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 26}, {58, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 4}</string>
+			<key>spriteSize</key>
+			<string>{58, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{451, 909}, {54, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0157.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0158.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 25}, {56, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 7}</string>
+			<key>spriteSize</key>
+			<string>{56, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{527, 744}, {50, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0159.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0160.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 22}, {56, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 10}</string>
+			<key>spriteSize</key>
+			<string>{56, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{525, 803}, {50, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0161.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0162.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 19}, {56, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 15}</string>
+			<key>spriteSize</key>
+			<string>{56, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{608, 645}, {56, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0163.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0164.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 15}, {56, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 18}</string>
+			<key>spriteSize</key>
+			<string>{56, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{399, 106}, {48, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0165.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0166.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 17}, {56, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 17}</string>
+			<key>spriteSize</key>
+			<string>{56, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{551, 646}, {56, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0167.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0168.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 21}, {56, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 12}</string>
+			<key>spriteSize</key>
+			<string>{56, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{584, 860}, {56, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0169.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0170.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 24}, {56, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 8}</string>
+			<key>spriteSize</key>
+			<string>{56, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{577, 960}, {50, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_gnawer_0171.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0172.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 17}, {72, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{72, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 415}, {72, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0173.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0174.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 17}, {72, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{72, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 581}, {72, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0175.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0176.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 17}, {72, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{72, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 83}, {72, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0177.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0178.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 17}, {72, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{72, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {72, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0179.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0180.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 17}, {72, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{72, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 249}, {72, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0181.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0182.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 17}, {72, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{72, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 332}, {72, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0183.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0184.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 17}, {72, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{72, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 166}, {72, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_gnawer_0185.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_gnawer_0186.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 17}, {72, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{72, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 498}, {72, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0002.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 21}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -6}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{865, 824}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0004.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 19}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -5}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{841, 787}, {34, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 16}, {34, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{34, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{947, 442}, {34, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 15}, {36, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{36, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{854, 576}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0009.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 15}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{903, 362}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0011.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 20}, {38, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -6}</string>
+			<key>spriteSize</key>
+			<string>{38, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{918, 403}, {36, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0013.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 21}, {38, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -6}</string>
+			<key>spriteSize</key>
+			<string>{38, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{979, 338}, {38, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0015.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 17}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 617}, {36, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0017.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 15}, {36, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{36, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{825, 707}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 13}, {34, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{34, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 523}, {34, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0020.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 14}, {34, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -3}</string>
+			<key>spriteSize</key>
+			<string>{34, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{912, 458}, {34, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 19}, {36, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -5}</string>
+			<key>spriteSize</key>
+			<string>{36, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{955, 395}, {36, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0023.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 22}, {32, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -7}</string>
+			<key>spriteSize</key>
+			<string>{32, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{893, 964}, {32, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0025.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 18}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{942, 356}, {36, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0027.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 16}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{940, 315}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 14}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{815, 576}, {38, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0030.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 15}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{851, 535}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0032.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 23}, {34, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -7}</string>
+			<key>spriteSize</key>
+			<string>{34, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{876, 744}, {32, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0034.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 21}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -6}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{873, 929}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0036.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 16}, {36, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{36, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{853, 619}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0038.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 15}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{873, 482}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 13}, {36, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{36, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{652, 455}, {42, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0041.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 17}, {34, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{34, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{979, 303}, {38, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0043.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 24}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -8}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{925, 656}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0045.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -9}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{865, 859}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0047.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 17}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{839, 748}, {36, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0048.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0049.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 15}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{963, 262}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 14}, {40, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{40, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{977, 0}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0052.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 16}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{879, 417}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0054.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 22}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -7}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{873, 894}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0055.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0056.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 24}, {34, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -8}</string>
+			<key>spriteSize</key>
+			<string>{34, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{899, 699}, {32, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0058.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 17}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{888, 660}, {36, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0060.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 15}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{971, 213}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 14}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{822, 887}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0062.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0063.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 16}, {34, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{34, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{925, 501}, {34, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0064.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0065.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 24}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -8}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{927, 605}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0066.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0067.png</string>
+			
+				<string>gnoll_reaver_0068.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 18}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -5}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{862, 705}, {36, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0069.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0070.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 4}, {54, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 2}</string>
+			<key>spriteSize</key>
+			<string>{54, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{524, 964}, {52, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0071.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0072.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 3}, {54, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, 3}</string>
+			<key>spriteSize</key>
+			<string>{54, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{445, 693}, {52, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0073.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0074.png</string>
+			
+				<string>gnoll_reaver_0075.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 3}, {54, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, 3}</string>
+			<key>spriteSize</key>
+			<string>{54, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{421, 768}, {52, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0076.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0077.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 10}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{789, 441}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0079.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 10}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{813, 388}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0080.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0081.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 24}, {42, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -8}</string>
+			<key>spriteSize</key>
+			<string>{42, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{236, 463}, {42, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0082.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0083.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 19}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -5}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{851, 664}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0084.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 18}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -5}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{891, 566}, {36, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0085.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 12}, {34, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, -2}</string>
+			<key>spriteSize</key>
+			<string>{34, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{377, 460}, {44, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 10}, {38, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 537}, {46, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0087.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 12}, {36, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-17, -2}</string>
+			<key>spriteSize</key>
+			<string>{36, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{607, 455}, {44, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0088.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 15}, {44, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -4}</string>
+			<key>spriteSize</key>
+			<string>{44, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{771, 621}, {42, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>gnoll_reaver_0089.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0090.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 23}, {48, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-24, -10}</string>
+			<key>spriteSize</key>
+			<string>{48, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{755, 537}, {48, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0091.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 28}, {44, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, -12}</string>
+			<key>spriteSize</key>
+			<string>{44, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{191, 463}, {44, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0092.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 31}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, -14}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{279, 462}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0093.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 33}, {44, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, -15}</string>
+			<key>spriteSize</key>
+			<string>{44, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{246, 433}, {44, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0094.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0095.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 33}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, -16}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{299, 429}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0096.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0097.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 33}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, -16}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{344, 429}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>gnoll_reaver_0098.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>gnoll_reaver_0099.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 33}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, -16}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{472, 878}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>elves_woods_2_enemies-hd.zwd</string>
+		<key>textureFileName</key>
+		<string>elves_woods_2_enemies-hd.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
